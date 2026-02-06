@@ -1,0 +1,13 @@
+'''
+Constants for TicTacToe Game
+'''
+
+PLAYERS = ['X', 'O']
+
+VALUE_X = 1
+VALUE_O = -1
+
+DEFAULT_WIDTH = 500
+DEFAULT_HEIGHT = 500
+LINE_WIDTH = 5
+CHAR_WIDTH = 3
