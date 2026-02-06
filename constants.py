@@ -1,8 +1,8 @@
-'''
+"""
 Constants for TicTacToe Game
-'''
+"""
 
-PLAYERS = ['X', 'O']
+PLAYERS = ["X", "O"]
 
 VALUE_X = 1
 VALUE_O = -1
